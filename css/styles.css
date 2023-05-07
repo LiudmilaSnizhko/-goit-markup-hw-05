@@ -733,6 +733,7 @@ ul {
 
 .modal-close-btn:hover,
 .modal-close-btn:focus {
+  border: none;
   background-color: var(--background-icons-social);
 }
 .modal-close-icon {
@@ -858,7 +859,7 @@ ul {
   padding: 40px 32px;
   /* height: 100%;
   width: 100%; */
-  transform: translateY(100%);
+  /* transform: translateY(100%); */
 
   top: 0;
   font-size: 16px;
